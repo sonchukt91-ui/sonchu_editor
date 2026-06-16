@@ -1,0 +1,8 @@
+{
+  "name": "sonchu-editor",
+  "description": "Landing page Portfolio cá nhân cao cấp dành cho nhà thiết kế, biên kịch và sáng tạo nội dung số bằng công nghệ AI tiên phong.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
